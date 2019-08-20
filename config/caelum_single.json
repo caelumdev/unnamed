@@ -1,0 +1,10 @@
+{
+  "interface": {
+    "network": "Caelum",
+    "chainId": "159",
+    "rpcUrl": "some_url",
+    "wsUrl": "some_url",
+    "exchangeAccount" : {"address": "0x0", "privateKey": "0x00000000000000000000000000000"},
+    "description": "Extra configuration added here, connection details etc, passed into interface.js"
+  }
+}

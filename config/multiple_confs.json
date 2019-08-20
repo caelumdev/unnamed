@@ -1,0 +1,18 @@
+{
+  "ROPSTEN": {
+  "network": "Caelum",
+  "chainId": "159",
+  "rpcUrl": "https://ropsten.infura.io/0646e2f5b94a4368a128cbdb78dd243b",
+  "wsUrl": "https://testnet.caelumfoundation.com/ws/",
+  "exchangeAccount" : {"address": "0x14d58f215B7034d1d83923c995e7d653103952f0", "privateKey": "0000"},
+  "description": "Extra configuration added here, connection details etc, passed into interface.js"
+  },
+  "CAELUM": {
+  "network": "Caelum",
+  "chainId": "159",
+  "rpcUrl": "https://rpc.caelumfoundation.com/",
+  "wsUrl": "https://rpc.caelumfoundation.com/ws/",
+  "exchangeAccount" : {"address": "0x5CEfb7C6637b908F5ce473C259B5707697A065D6", "privateKey": "0000"},
+  "description": "Extra configuration added here, connection details etc, passed into interface.js"
+  }
+}
